@@ -1,0 +1,4 @@
+Hello!
+My name is Ariana.
+I am learning Python and GitHub.
+This is my first project.
